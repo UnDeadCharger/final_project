@@ -6,5 +6,5 @@ int main(){
     cout<<"push lan 2 ne!!";
     cout<<"con cat!!";
     cout<<"cai lon";
-    cout<<"ma";
+    cout<<"ma123";
 }
