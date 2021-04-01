@@ -8,5 +8,5 @@ int main(){
     cout<<"cai lon";
     cout<<"ma12323";
     cout<<"conflict ne!!";
-    cout<<"up thu duoc ko chac ko duoc";
+    cout<<"up thu duoc ko chac ko duoc,sao lai khong duoc ?";
 }
