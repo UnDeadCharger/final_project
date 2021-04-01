@@ -3,5 +3,5 @@ using namespace std;
 int main(){
 
     cout<<"sua code nay lai !!";
-    cout<<"moi vao code,confilct";
+    cout<<"moi vao code,confilct ne";
 }
